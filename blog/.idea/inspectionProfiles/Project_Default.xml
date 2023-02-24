@@ -66,6 +66,7 @@
           <option value="list.order_food" />
           <option value="project.bakery.__find_table_by_table_number.order_food" />
           <option value="project.bakery.__find_table_by_table_number.food_orders" />
+          <option value="django_blog.urls.blog" />
         </list>
       </option>
     </inspection_tool>
